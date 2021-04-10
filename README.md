@@ -6,7 +6,7 @@ With pyshorteners , generate a short url or expand another one is as easy as typ
 ### Library Installation
 
 ```python
-pip install instaloader
+pip install pyshorteners
 ```
 
 ### Source Code
